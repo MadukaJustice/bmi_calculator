@@ -23,3 +23,5 @@ BMI	Weight Status
 * 18.5 – 24.9	Normal
 * 25.0 – 29.9	Overweight
 * 30.0 and above	Obese
+
+For more information on BMI, visit: https://www.healthline.com/health/body-mass-index
